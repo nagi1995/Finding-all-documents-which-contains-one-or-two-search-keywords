@@ -1,0 +1,304 @@
+NIFTY 50
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Nifty Fifty (disambiguation).
+NIFTY 50
+Nifty 50 Logo.svg
+Operator	NSE Indices
+Exchanges	National Stock Exchange of India
+Constituents	50
+Type	Large cap
+Market cap	US$2.27 trillion (April 2018)
+Weighting method	Capitalization-weighted
+Website	www.nseindia.com
+The NIFTY 50 is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange.[1] It is one of the two main stock indices used in India, the other being the BSE SENSEX.[2]
+
+Nifty 50 is owned and managed by NSE Indices (previously known as India Index Services & Products Limited), which is a wholly owned subsidiary of the NSE Strategic Investment Corporation Limited.[3][4] NSE Indices had a marketing and licensing agreement with Standard & Poor's for co-branding equity indices until 2013. The Nifty 50 index was launched on 22 April 1996,[5] and is one of the many stock indices of Nifty.
+
+The NIFTY 50 index has shaped up to be the largest single financial product in India, with an ecosystem consisting of exchange-traded funds (onshore and offshore), exchange-traded options at NSE,[6] and futures and options abroad at the SGX.[7] NIFTY 50 is the world's most actively traded contract. WFE, IOMA and FIA surveys endorse NSE's leadership position.[8][9][citation needed]
+
+The NIFTY 50 index covers 14 sectors (as on 20 June 2020) of the Indian economy and offers investment managers exposure to the Indian market in one portfolio. Between 2008 & 2012, the NIFTY 50 index's share of NSE's market capitalisation fell from 65% to 29%[10] due to the rise of sectoral indices like NIFTY Bank, NIFTY IT, NIFTY Pharma, NIFTY SERV SECTOR, NIFTY Next 50, etc. The NIFTY 50 Index gives a weightage of 39.47% to financial services, 15.31% to Energy, 13.01% to IT, 12.38% to consumer goods, 6.11% to Automobiles and 0% to the agricultural sector.[11]
+
+The NIFTY 50 index is a free float market capitalisation weighted index. The index was initially calculated on a full market capitalisation methodology. On 26 June 2009, the computation was changed to a free-float methodology. The base period for the NIFTY 50 index is 3 November 1995, which marked the completion of one year of operations of the National Stock Exchange Equity Market Segment. The base value of the index has been set at 1000 and a base capital of ? 2.06 trillion.[12][13]
+
+
+Contents
+1	Former constituents
+2	Constituents
+3	Major single day falls
+4	Major single day gains
+5	Annual returns
+6	Derivatives
+7	NIFTY Next 50
+8	NIFTY sectoral indices
+9	See also
+10	References
+11	External links
+Former constituents
+In February 2019, Britannia Industries entered the Nifty 50 by replacing Hindustan Petroleum Corporation Ltd. HPCL was moved into Nifty Next 50.[14] From 27 September 2019, Nestlé India was included in the Nifty 50 index and the Nifty 50 Equal Weight index, it replaced Indiabulls Housing Finance Ltd.[15] On 31 July 2020 HDFC Life was included in the Nifty 50 index, it replaced Vedanta Limited.[16] In September 2020, Divi's Laboratories and SBI Life Insurance Company replaced Bharti Infratel and Zee Entertainment Enterprises on the Nifty 50 index.[17]
+
+Constituents
+List of 50 companies that form part of NIFTY 50 Index as in September 2020:[18]
+
+Company Name	Symbol	Sector
+Adani Ports	ADANIPORTS.NS	Infrastructure
+Asian Paints	ASIANPAINT.NS	Consumer Goods
+Axis Bank	AXISBANK.NS	Banking
+Bajaj Auto	BAJAJ-AUTO.NS	Automobile
+Bajaj Finance	BAJFINANCE.NS	Financial Services
+Bajaj Finserv	BAJAJFINSV.NS	Financial Services
+Bharti Airtel	BHARTIARTL.NS	Telecommunication
+Bharat Petroleum	BPCL.NS	Energy - Oil & Gas
+Britannia Industries	BRITANNIA.NS	Consumer Goods
+Cipla	CIPLA.NS	Pharmaceuticals
+Coal India	COALINDIA.NS	Energy & Mining
+Divi's Laboratories	DIVISLAB.NS	Pharmaceuticals
+Dr. Reddy's Laboratories	DRREDDY.NS	Pharmaceuticals
+Eicher Motors	EICHERMOT.NS	Automobile
+GAIL	GAIL.NS	Energy - Oil & Gas
+Grasim Industries	GRASIM.NS	Cement
+HCL Technologies	HCLTECH.NS	Information Technology
+HDFC	HDFC.NS	Financial Services
+HDFC Bank	HDFCBANK.NS	Banking
+HDFC Life	HDFCLIFE.NS	Insurance
+Hero MotoCorp	HEROMOTOCO.NS	Automobile
+Hindalco Industries	HINDALCO.NS	Metals
+Hindustan Unilever	HINDUNILVR.NS	Consumer Goods
+ICICI Bank	ICICIBANK.NS	Banking
+IndusInd Bank	INDUSINDBK.NS	Banking
+Infosys	INFY.NS	Information Technology
+Indian Oil Corporation	IOC.NS	Energy - Oil & Gas
+ITC Limited	ITC.NS	Consumer Goods
+JSW Steel	JSWSTEEL.NS	Metals
+Kotak Mahindra Bank	KOTAKBANK.NS	Banking
+Larsen & Toubro	LT.NS	Construction
+Mahindra & Mahindra	M&M.NS	Automobile
+Maruti Suzuki	MARUTI.NS	Automobile
+Nestlé India	NESTLEIND.NS	Consumer Goods
+NTPC	NTPC.NS	Energy - Power
+Oil and Natural Gas Corporation	ONGC.NS	Energy - Oil & Gas
+Power Grid Corporation of India	POWERGRID.NS	Energy - Power
+Reliance Industries	RELIANCE.NS	Energy - Oil & Gas
+State Bank of India	SBIN.NS	Banking
+SBI Life Insurance Company	SBILIFE.NS	Insurance
+Shree Cements	SHREECEM.NS	Cement
+Sun Pharmaceutical	SUNPHARMA.NS	Pharmaceuticals
+Tata Motors	TATAMOTORS.NS	Automobile
+Tata Steel	TATASTEEL.NS	Metals
+Tata Consultancy Services	TCS.NS	Information Technology
+Tech Mahindra	TECHM.NS	Information Technology
+Titan Company	TITAN.NS	Consumer Goods
+UltraTech Cement	ULTRACEMCO.NS	Cement
+United Phosphorus Limited	UPL.NS	Chemicals
+Wipro	WIPRO.NS	Information Technology
+Major single day falls
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "NIFTY 50" – news · newspapers · books · scholar · JSTOR (October 2020) (Learn how and when to remove this template message)
+Following are some of the notable single-day falls of the NIFTY 50 Index -
+
+Sl. No.	Date	Fall	Probable Reason
+1	28 October 1997	8.01%	Investors deserted emerging Asian shares during the Asian Financial Crisis. Crashes also occurred in Thailand, Indonesia, South Korea and Philippines.
+2	21 January 2008	10%	Due to the US Subprime mortgage crisis.
+3	16 August 2013	4.08% (234.45 points)	Due to depreciation of the Indian Rupee.[19][20]
+4	24 August 2015	5.92% (490.95 points)	Driven by the meltdown in the Chinese Stock market.[21]
+5	24 June 2016	181.5 points	Driven by the Brexit Referendum.[22]
+6	11 November 2016	229.45 points	Driven by the Demonetization move by the Indian Government and the 2016 US Election Results.[23]
+7	2 February 2018	256.30 points	Driven by the 2018 Union budget of India and Global breakdown.
+8	24 September 2018	175.55 points	Panic Fall, wherein in the last trading session (21 September 2018) there were rumors of Fraud by Housing Loan companies.
+9	4 October 2018	303.20 points	Panic Fall, due to Oil price Increase and rupee fall against US Dollar.
+10	5 October 2018	282.80 points	Panic Fall, due to Oil price Increase and rupee fall against US Dollar.
+11	5 July 2019	132.80 points	Due to Union Budget FY 2019 and Global Equity sell-off.[24]
+12	8 July 2019	252.55 points	Due to Union Budget FY 2019.[24]
+13	22 August 2019	177.35 points (1.62%)	Due to concerns about slowing Indian economy.[25][26]
+14	3 September 2019	225.35 points (2.04%)	Due to Multiple PSU Bank Merger Announcements.[27][26]
+15	17 September 2019	185.90 points (1.69%)	Driven by rising crude oil prices and the drone attack on Saudi Arabia's oil fields.[28][26]
+16	1 February 2020	373.95 points (3.11%)	Driven by the Union Budget FY 2020 and coronavirus pandemic which saw global breakdown a day before Budget.[29]	
+17	9 March 2020	538.00 points (4.90%)	Driven by the COVID-19 pandemic.[30][31]
+18	12 March 2020	868.25 points (8.30%)	Driven by the COVID-19 pandemic after WHO declared it a pandemic.[32]
+19	16 March 2020	757.80 points (7.61%)	Driven by the COVID-19 pandemic.[33]
+20	23 March 2020	1135.20 points (12.98%)	Driven by the COVID-19 pandemic.[34]
+21	11 June 2020	214.15 points (2.12%)	Driven by the weak economic outlook as predicted by the United States Federal Reserve.[35][36]
+Major single day gains
+Following are some of the notable single-day gains of the NIFTY 50 Index -
+
+Sl. No.	Date	High	Probable Reason
+1	20 May 2019	3.69% (421.10 points)	Exit Polls of 2019 General elections predict clear majority for BJP government.
+2	23 May 2019	2.49% (300.90 points)	Results of the 2019 General Elections in which BJP led NDA alliance wins.
+3	8 August 2019	1.63% (176.95 points)	FPI surcharge rollback
+4	26 August 2019	2.16% (234.45 points)	Relief measures, likely US-China trade talks begin.[1]
+5	20 September 2019	6.12% ( 655.45 points)	Indian FM announced a cut in the corporate tax rate for domestic companies and new domestic manufacturing companies
+6	23 September 2019	3.73% (420.65 points )	Following a corporate tax cut in India
+7	7 April 2020	8.76% (708.40 points)	Positive news that infection numbers were peaking in some of the worst affected areas around the world[37]
+8	1 Feb 2021	4.74% (646.60 points)	Union budget day by Nirmala Sitharaman
+Annual returns
+The following table shows the annual development of the NIFTY 50 since 2000.[38] The historical daily returns data can be accessed from the NSE website.[39]
+
+Year	Closing level	Change in Index
+in Points	Change in Index
+in %
+2000	1,263.55	-216.90	-14.65
+2001	1,059.05	-204.50	-13.94
+2002	1,093.50	34.45	3.25
+2003	1,879.75	786.25	71.90
+2004	2,080.50	200.75	10.68
+2005	2,836.55	756.05	36.34
+2006	3,966.40	1,129.85	39.83
+2007	6,138.60	2,172.20	54.77
+2008	2,959.15	-3,179.45	-51.79
+2009	5,201.05	2,241.90	75.76
+2010	6,134.50	933.45	17.95
+2011	4,624.30	-1,510.20	-24.62
+2012	5,905.10	1,280.80	27.70
+2013	6,304.00	398.90	6.76
+2014	8,282.70	1,978.70	31.39
+2015	7,964.35	-318.35	-3.84
+2016	8,185.80	239.45	3.01
+2017	10,530.70	2,344.90	28.65
+2018	10,862.55	331.85	3.15
+2019	12,168.45	1,305.90	12.02
+2020	13,981.75	1,813.30	14.90
+Derivatives
+Trading in call and put options on the Nifty 50 are offered by the NSE.[40]
+
+NIFTY Next 50
+NIFTY Next 50, also called NIFTY Junior, is an index of 50 companies whose free float market capitalisation comes after that of the companies in NIFTY 50. NIFTY Next 50 constituents are thus potential candidates for future inclusion in NIFTY 50.[41]
+
+Nifty Next 50 constituents as of September 2020:[42][43]
+
+Constituents
+Company Name	Symbol	Sector
+Abbott India	ABBOTINDIA	Pharmaceuticals
+ACC	ACC	Cement
+Adani Green Energy	ADANIGREEN	Energy - Power
+Adani Transmission	ADANITRANS	Energy - Power
+Alkem Laboratories	ALKEM	Pharmaceuticals
+Ambuja Cements	AMBUJACEM	Cement
+Aurobindo Pharma	AUROPHARMA	Pharmaceuticals
+Avenue Supermarts	DMART	Consumer Goods
+Bajaj Holdings	BAJAJHLDNG	Financial Services
+Bandhan Bank	BANDHANBNK	Banking
+Bank of Baroda	BANKBARODA	Banking
+Berger Paints	BERGEPAINT	Consumer Goods
+Biocon	BIOCON	Pharmaceuticals
+Bosch	BOSCHLTD	Automobile
+Cadila Healthcare	CADILAHC	Pharmaceuticals
+Colgate-Palmolive	COLPAL	Consumer Goods
+Container Corporation of India	CONCOR	Services - Transport & Logistics
+Dabur	DABUR	Consumer Goods
+DLF	DLF	Construction
+General Insurance Corporation of India	GICRE	Financial Services
+Godrej Consumer Products Limited	GODREJCP	Consumer Goods
+Havells	HAVELLS	Consumer Goods
+HDFC AMC	HDFCAMC	Financial Services
+Hindustan Petroleum	HINDPETRO	Energy - Oil & Gas
+Hindustan Zinc	HINDZINC	Metals
+ICICI Lombard General Insurance	ICICIGI	Financial Services
+ICICI Prudential	ICICIPRULI	Financial Services
+Indraprastha Gas	IGL	Energy - Oil & Gas
+Indus Towers	INDUSTOWER	Telecommunication
+Info Edge	NAUKRI	Internet
+Interglobe Aviation	INDIGO	Services - Transport & Logistics
+L&T Infotech	LTI	Information Technology
+Lupin	LUPIN	Pharmaceuticals
+Marico	MARICO	Consumer Goods
+Motherson Sumi Systems	MOTHERSUMI	Automobile
+Muthoot Finance	MUTHOOTFIN	Financial Services
+NMDC	NMDC	Metals
+Oracle Financial Services Software	OFSS	Information Technology
+Petronet LNG	PETRONET	Energy - Oil & Gas
+Pidilite Industries	PIDILITIND	Chemicals
+Piramal Enterprises	PEL	Pharmaceuticals
+Power Finance Corporation	PFC	Financial Services
+Procter & Gamble	PGHH	Consumer Goods
+Punjab National Bank	PNB	Banking
+SBI Card	SBICARD	Financial Services
+Siemens	SIEMENS	Industrial Manufacturing
+Tata Consumer Products	TATACONSUM	Consumer Goods
+Torrent Pharmaceuticals	TORNTPHARM	Pharmaceuticals
+United Breweries	UBL	Consumer Goods
+United Spirits	MCDOWELL-N	Consumer Goods
+NIFTY sectoral indices
+Index[44][45]	Constituents
+NIFTY Auto	Amara Raja Batteries, Ashok Leyland, Bajaj Auto, Balkrishna Industries, Bharat Forge, Bosch, Eicher Motors, Exide, Hero Motocorp, Mahindra & Mahindra, Maruti Suzuki, Motherson Sumi Systems, MRF, Tata Motors, TVS Motors
+NIFTY Bank	Axis Bank, Bandhan Bank, Bank of Baroda, Federal Bank, HDFC Bank, ICICI Bank, IDFC First Bank, IndusInd Bank, Kotak Mahindra Bank, Punjab National Bank, RBL Bank, State Bank of India
+NIFTY Consumer Durables	Bata, Blue Star, Crompton Greaves, Dixon Technologies, Havells, Orient Electric, Rajesh Exports, Relaxo, Symphony, Titan Company, TTK Prestige, V-Guard, VIP Industries, Voltas, Whirlpool
+NIFTY Financial Services	Axis Bank, Bajaj Finance, Bajaj Finserv, Bajaj Holdings, Cholamandalam, HDFC AMC, HDFC, HDFC Bank, HDFC Life, ICICI Bank, ICICI Lombard, ICICI Prudential, Kotak Mahindra Bank, M&M Finance, Piramal Enterprises, Power Finance Corporation, REC, SBI Life Insurance Company, Shriram Transport Finance, State Bank of India
+NIFTY FMCG	Britannia, Colgate-Palmolive, Dabur, Emami, Godrej Consumer Products, Hindustan Unilever, ITC Limited, Jubilant FoodWorks, Marico, Nestlé India, Procter & Gamble, Tata Consumer Products, United Breweries, United Spirits, Varun Beverages
+NIFTY IT	HCL Technologies, Info Edge, Infosys, L&T Infotech, Mindtree, Mphasis, NIIT Technologies, Tata Consultancy Services, Tech Mahindra, Wipro
+NIFTY Media	DB Corp, Dish TV, Hathway, INOX Leisure, Jagran Prakashan, PVR Cinemas, Sun TV Network, TV Today Network, TV18, Zee Entertainment Enterprises
+NIFTY Metal	APL Apollo Tubes, Coal India, Hindalco, Hindustan Copper, Hindustan Zinc, Jindal Steel, JSW Steel, MOIL, National Aluminium Company, NMDC, Ratnamani Metals & Tubes, Steel Authority of India, Tata Steel, Vedanta, Welspun Corp
+NIFTY Oil & Gas	Adani Gas, Aegis Logistics, BPCL, Castrol, GAIL, Gujarat Gas, Gujarat State Petronet, HPCL, Indraprastha Gas, IOC, Mahanagar Gas, Oil India, ONGC, Petronet LNG, Reliance Industries
+NIFTY Pharma	Alkem Laboratories, Aurobindo Pharma, Biocon, Cadila Healthcare, Cipla, Divis Laboratories, Dr. Reddy's Laboratories, Lupin, Sun Pharmaceutical, Torrent Pharmaceuticals
+NIFTY Private Bank	Axis Bank, Bandhan Bank, City Union Bank, Federal Bank, HDFC Bank, ICICI Bank, IDFC First Bank, IndusInd Bank, Kotak Mahindra Bank, RBL Bank
+NIFTY PSU Bank	Bank of Baroda, Bank of Maharashtra, Bank of India, Canara Bank, Central Bank of India, Indian Bank, Indian Overseas Bank, J&K Bank, Punjab National Bank, State Bank of India, UCO Bank, Union Bank of India
+NIFTY Realty	Brigade Enterprises, DLF, Godrej Properties, Indiabulls Real Estate, Oberoi Realty, Omaxe, Phoenix Mills, Prestige Group, Sobha Developers, Sunteck
+See also
+NSE Indices
+BSE SENSEX
+National Stock Exchange of India
+Bombay Stock Exchange
+References
+ "NSE India- Nifty 50 Fact Sheet" (PDF). NSE India.
+ "Broadmarket indices - NIFTY 50 Index". nseindia.com. NSE - National stock exchange (official website). Retrieved 29 November 2017.
+ India, NSE. "Corporate structure".
+ India, NSE. "About NSE Indices".
+ "Nse official website". Retrieved 6 January 2021.
+ "NSE Equity Derivatives Contract Specifications". National Stock Exchange of India. Retrieved 16 August 2019.
+ "SGX Derivatives Products Nifty Indices Futures and Options Product Information". Singapore Exchange Ltd. Retrieved 16 August 2019.
+ Serah Sudhin (September 2017). "The Journey of Nifty-Fifty" (PDF). International Journal of Academic Research and Development. 2 (5): 4. Retrieved 6 January 2021.
+ India, N. S. E. "NSE - Page Not Found" (PDF). NSE India. Cite uses generic title (help)
+ "NIFTY 50 loses importance to sectoral indices" (PDF).
+ "Sectoral weightage of CNX Nifty 50 Index" (PDF). Archived from the original (PDF) on 23 January 2014. Retrieved 14 September 2013.
+ "CNX Nifty Index Methodology" (PDF).
+ "NSE - National Stock Exchange of India Ltd". nseindia.com.
+ "Britannia to replace Hindustan Petroleum in Nifty 50 from 29 March". Livemint. 25 February 2019.
+ Writer, Staff (28 August 2019). "Nestle India to be included in NSE Nifty 50 Index". Livemint.
+ HDFC Life to replace Vedanta in Nifty 50
+ "Divi's Labs And SBI Life Enter Nifty 50, Zee And Bharti Infratel Out". BloombergQuint. Retrieved 15 September 2020.
+ "Index Composition Nse, Stock/Share Indices, Sensex Indices, Composition Index, Stocks Gain / Lost". moneycontrol.com. Retrieved 28 September 2020.
+ "News18.com: CNN-News18 Breaking News India, Latest News, Current News Headlines". News18. Retrieved 21 December 2017.
+ "Sensex, Nifty reel as Brexit spooks world markets". Business Line. Retrieved 9 July 2019.
+ "Global mayhem: Sensex crashes 1624 pts; Nifty breaches 7900". Moneycontrol. Retrieved 21 December 2017.
+ Bureau/Agencies, Our (24 June 2016). "Sensex, Nifty reel as Brexit spooks world markets". Business Line. Retrieved 21 December 2017.
+ Nathan, Narendra (14 November 2016). "How demonetisation and Donald Trump's victory impact your investments". The Economic Times. Retrieved 21 December 2017.
+ "Stock markets tank, Sensex down over 600 points and Nifty down 200 amid global equity selloff". Republic World. Retrieved 10 June 2020.
+ "Markets end deep in red; Sensex falls nearly 590 points, Nifty slips below 10,750". Zee News. 22 August 2019. Retrieved 10 June 2020.
+ "Nifty 50 (^NSEI) historical data – Yahoo Finance". in.finance.yahoo.com. Retrieved 6 October 2020.
+ Team, BS Web (3 September 2019). "Market Wrap, Sep 03: Sensex nosedives 770 pts, Nifty settles below 10,800". Business Standard India. Retrieved 6 October 2020.
+ Desk, BL Internet. "Market slips on oil spills: Sensex crashes 642 points, Nifty near 10,800-level". @businessline. Retrieved 6 October 2020.
+ "Stock market at odds with Union Budget 2020; SENSEX slips over 1,000 pts, NIFTY at 11,643". DNA India. 1 February 2020. Retrieved 1 February 2020.
+ Sharma, Devansh (9 March 2020). "Pandemonium in markets, Sensex cracks over 1900 points; Yes Bank jumps 31%". mint. Retrieved 6 October 2020.
+ Team, BS Web (9 March 2020). "Market Wrap, March 9: Sensex dips 1942 pts, Nifty at 10,451". Business Standard India. Retrieved 6 October 2020.
+ Desk, BL Internet. "Sensex, Nifty suffer biggest one-day fall amid global sell off". @businessline. Retrieved 6 October 2020.
+ Team, BS Web (16 March 2020). "Market Wrap, March 16: Sensex tanks 2,713 pts, Nifty ends at 9,199". Business Standard India. Retrieved 6 October 2020.
+ Guha, Ishita (23 March 2020). "Key indices suffer massive sell-off; Sensex ends down nearly 4,000 points". mint. Retrieved 6 October 2020.
+ "Fed to keep buying bonds, foresees no rate hike through 2022". The Economic Times. 11 June 2020. Retrieved 11 June 2020.
+ "Sensex tanks 709 points; Nifty closes below 10,000". Zee News. 11 June 2020. Retrieved 11 June 2020.
+ Shah, Ami (7 April 2020). "Sensex, Nifty post biggest single-day gain; Rs 7.9 lakh crore added". The Economic Times. Retrieved 10 June 2020.
+ "S&P/CNX Nifty Index (India) Yearly Stock Returns". 1stock1.com. Retrieved 20 January 2020.
+ "NSE - Historical Index Data".
+ "National Stock Exchange of India Ltd". NSE. 1 April 2013. Retrieved 28 June 2020.
+ India, N. S. E. "NSE - Page Not Found" (PDF). NSE India. Cite uses generic title (help)
+ "NSE rejigs Nifty indices, here's how Next 50,100, 500 and sectoral indices will change from June 26". 12 June 2020.
+ "NIFTY Next 50 Index". NSE India. Retrieved 6 October 2020.
+ "Sectoral Indices". NSE India. Retrieved 4 May 2020.
+ "Replacements in Indices" (PDF). www1.nseindia.com. 10 June 2020. Retrieved 28 June 2020.
+External links
+Bloomberg page for NIFTY:IND
+NSE official site
+vte
+Major Asian stock market indices
+Central Asia	
+KASEKSETashkent
+East Asia	
+CSI 300Hang SengKOSPINikkei 225SSE CompositeSZSE ComponentTaiwan WeightedTOPIX
+North Asia	
+Moscow Exchange
+South Asia	
+BSE SENSEXNIFTY 50KSE 100
+Southeast Asia	
+IDX CompositeKLCIPSEiSTISET Index (SET50/SET100)
+Western Asia	
+ASE WeightedDFM IndexTASITA-125TSEBIST
+Categories: Indian stock market indicesNational Stock Exchange of India
